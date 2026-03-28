@@ -1,8 +1,10 @@
-# Trying to Learn Git and GitHub
+# My Git and GitHub Learning Journey 
 ## Day 1
-- This is my very first README
 - First Installed Git and made a GitHub Account
-- Made my First Repo
-- Had to get Prettier for the Linting
+- Made my First GitHub and linked it to my Local PC's Git so I can Upload(Push) anything I make on GitHub so its saved on the cloud
+- Had to get the Prettier Extension for the Linting
+- Made my very first README file (it's this by the way)
+- Learnt Basic Git Commands such as "git add", "git commit" and "git push"
+- Started on a simple webpage and Pushed some of it to GitHub
 
 ## Day 2 
