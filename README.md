@@ -8,3 +8,4 @@
 - Started on a simple webpage and Pushed some of it to GitHub
 
 ## Day 2 
+- Started Learning a bit of HTML and Made a Simple Webpage which I've added to GitHub (html_learning_project)
